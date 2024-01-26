@@ -12,20 +12,20 @@ In the game, you'll be a ninja and your mission is to develop your skills and ch
 
 ## Screenshots
 <p>
-    <img src="screenshots/build-en.png" height="250"/>
-    <img src="screenshots/build2-en.png" height="250"/>
-    <img src="screenshots/equipments-en.png" height="250">
-    <img src="screenshots/equipments2-en.png" height="250">
-    <img src="screenshots/obtain_new_shinobi-en.png" height="250"/>
-    <img src="screenshots/dojo4x4-en.png" height="250"/>
-    <img src="screenshots/match_map-en.png" height="250"/>
-    <img src="screenshots/match_map2-en.png" height="250"/>
-    <img src="screenshots/match_map3-en.png" height="250"/>
-    <img src="screenshots/match_map4-en.png" height="250"/>
-    <img src="screenshots/match_map5-en.png" height="250"/>
-    <img src="screenshots/war-en.png" height="250"/>
-    <img src="screenshots/story_mode-en.png" height="250"/>
-    <img src="screenshots/tournament-en.png" height="250"/>
-    <img src="screenshots/battle_pvp-en.png" height="250"/>
-    <img src="screenshots/ranking-en.png" height="250"/>
+    <img src="screenshots/build-en.png" height="350"/>
+    <img src="screenshots/build2-en.png" height="350"/>
+    <img src="screenshots/equipments-en.png" height="350">
+    <img src="screenshots/equipments2-en.png" height="350">
+    <img src="screenshots/obtain_new_shinobi-en.png" height="350"/>
+    <img src="screenshots/dojo4x4-en.png" height="350"/>
+    <img src="screenshots/match_map-en.png" height="350"/>
+    <img src="screenshots/match_map2-en.png" height="350"/>
+    <img src="screenshots/match_map3-en.png" height="350"/>
+    <img src="screenshots/match_map4-en.png" height="350"/>
+    <img src="screenshots/match_map5-en.png" height="350"/>
+    <img src="screenshots/war-en.png" height="350"/>
+    <img src="screenshots/story_mode-en.png" height="350"/>
+    <img src="screenshots/tournament-en.png" height="350"/>
+    <img src="screenshots/battle_pvp-en.png" height="350"/>
+    <img src="screenshots/ranking-en.png" height="350"/>
 </p>
