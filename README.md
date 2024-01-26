@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="icones/logo640.png" width=80 style="border-radius: 25%" alt="Logo"/>
+    <img src="logo/logo640.png" width="80" style="border-radius: 25%" alt="Logo"/>
     <h1>Ninja Mobile - Will of Fire</h1>
 </div>
 
