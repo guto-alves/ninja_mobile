@@ -7,6 +7,9 @@
 In the game, you'll be a ninja and your mission is to develop your skills and chart your own ninja path to becoming a Kage!!
 </p>
 
+
+> Note: The application was developed 100% in Flutter. The source code contained in this repository is just the shell of a project. The current application code is kept private.
+
 ## Download App
 <a href="https://play.google.com/store/apps/details?id=com.gutotech.borutogame"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"></img></a>
 
